@@ -1,11 +1,4 @@
 ﻿# Pawsome Pets
-A Relational Database Design, Development, and Implementation Project
-
-## Team 5 Members
-| Name               |
-| -------------- |
-| Daniel Guthart | 
-| Jade Tustin        |
 
 ## Case Study
 From the project specification...
