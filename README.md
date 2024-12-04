@@ -10,6 +10,7 @@ From the project specification...
 
 ## Project Overview
 This case study and corresponding project serves as an exercise in the major steps of designing and operating a database management system (DBMS).
+
 The project is broken up into three parts, each corresponding to an important step in the process of realizing such a system:
 1. the design of a conceptual data model, where key entities and relationships are identified and a basic entity-relationship diagram provided
 2. the development of a logical data model, which builds on the conceptual model by introducing constraints, domains, and proper logical structuring for identified relationships
@@ -23,6 +24,7 @@ This folder contains all of the documentation for the project. Separate reports 
 *pawsomePets_demo.py*
 
 This Python script creates the database on a local machine, populates it with data, and automatically validates the database by performing sample transactions identified in the documentation. The program outputs the data in each table after initialization and population, as well as the results from the sample transactions.
+
 Running this script requires Python 3 to be installed on the user's computer, in addition to either a Python IDE (e.g. PyCharm) or a terminal window.
 
 If ran using the terminal, the script can be executed using the following command:
