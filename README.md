@@ -31,3 +31,5 @@ If ran using the terminal, the script can be executed using the following comman
 ```
 python3 pawsomePets_demo.py
 ```
+
+Running the script multiple times will cause the script to break, as the database transactions are embedded into the file and attempt to execute without checking the database. Deleting `pawsome_pets.db` resolves the issue.
