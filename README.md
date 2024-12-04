@@ -1,5 +1,5 @@
 ﻿# Pawsome Pets
-## Relational Database Design, Development, and Implementation Project
+A Relational Database Design, Development, and Implementation Project
 
 ## Team 5 Members
 | Name               |
