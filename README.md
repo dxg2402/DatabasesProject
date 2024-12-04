@@ -17,11 +17,14 @@ The project is broken up into three parts, each corresponding to an important st
 
 ## Project Contents
 */docs*
+
 This folder contains all of the documentation for the project. Separate reports are included for each phase of the project. Reading each report is encouraged, as it explains elements of the implemented design and provides rationale for various decisions made throughout the process.
 
 *pawsomePets_demo.py*
+
 This Python script creates the database on a local machine, populates it with data, and automatically validates the database by performing sample transactions identified in the documentation. The program outputs the data in each table after initialization and population, as well as the results from the sample transactions.
 Running this script requires Python 3 to be installed on the user's computer, in addition to either a Python IDE (e.g. PyCharm) or a terminal window.
+
 If ran using the terminal, the script can be executed using the following command:
 ```
 python3 pawsomePets_demo.py
